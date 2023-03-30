@@ -1,0 +1,167 @@
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\pspha\source\repos\CSharpAutomationFramework_back\Backup1\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csprojAssemblyReference.cache
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\snehankiniy\source\repos\04-11-2020Branch\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csprojAssemblyReference.cache
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\snehankiniy\source\repos\AStagingEnvoriment\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csprojAssemblyReference.cache
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.AssemblyReference.cache
+C:\Users\pspha\Downloads\Value Momentum\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.AssemblyReference.cache
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\phaneendrapo\Source\Repos\CSharpAutomationFramework_VAM\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.AssemblyReference.cache
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\Users\phaneendrapo\Downloads\CSharpAutomationFramework_VAM-master (1)\CSharpAutomationFramework_VAM-master\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.AssemblyReference.cache
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+H:\Automation\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.AssemblyReference.cache
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\D Pavan\WestFieldCSharpFramework-main\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.AssemblyReference.cache
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\D Pavan\SurakshaAutomationDT\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.deps.json
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\bin\Debug\netcoreapp3.1\CSharpAFProject.pdb
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.AssemblyReference.cache
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfoInputs.cache
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.AssemblyInfo.cs
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.csproj.CoreCompileInputs.cache
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.dll
+C:\D Pavan\SurakshaAutomation\CSharpAFProject\obj\Debug\netcoreapp3.1\CSharpAFProject.pdb
