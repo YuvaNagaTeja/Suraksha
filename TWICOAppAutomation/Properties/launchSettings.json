@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TWICOAppAutomation": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Test_Browser": "Chrome"
+      }
+    }
+  }
+}

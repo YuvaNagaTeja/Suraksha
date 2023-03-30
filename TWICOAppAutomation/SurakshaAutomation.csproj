@@ -1,0 +1,244 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PublishChromeDriver>true</PublishChromeDriver>
+	<RunSettingsFilePath>$(MSBuildProjectDirectory)\test.runsettings</RunSettingsFilePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="FeatureFiles\FIGUser.feature.cs" />
+    <Compile Remove="FeatureFiles\HomeIsNotQuotable.feature.cs" />
+    <Compile Remove="FeatureFiles\Login.feature.cs" />
+    <Compile Remove="FeatureFiles\Quote.feature.cs" />
+    <Compile Remove="Pages\AddMortgagee.cs" />
+    <Compile Remove="Pages\BillingPage.cs" />
+    <Compile Remove="Pages\ChoosePackagePage.cs" />
+    <Compile Remove="Pages\Clientpage.cs" />
+    <Compile Remove="Pages\CoApplicantPage.cs" />
+    <Compile Remove="Pages\CreditsPage.cs" />
+    <Compile Remove="Pages\CustomizeQuotePage.cs" />
+    <Compile Remove="Pages\Declinationspage.cs" />
+    <Compile Remove="Pages\EffectiveDatePage.cs" />
+    <Compile Remove="Pages\HomePage.cs" />
+    <Compile Remove="Pages\InforAddMortgageePage.cs" />
+    <Compile Remove="Pages\InformationneededPage.cs" />
+    <Compile Remove="Pages\InsuredPage.cs" />
+    <Compile Remove="Pages\MailingAddressPage.cs" />
+    <Compile Remove="Pages\PaymentMethodPage.cs" />
+    <Compile Remove="Pages\PaymentProcessPage.cs" />
+    <Compile Remove="Pages\PolicyIssuePage.cs" />
+    <Compile Remove="Pages\SignedDocumentsPage.cs" />
+    <Compile Remove="Pages\Trustpage.cs" />
+    <Compile Remove="Pages\ValidatePage.cs" />
+    <Compile Remove="StepDefinitions\AddMortgageSteps.cs" />
+    <Compile Remove="StepDefinitions\ChoosePackageSteps.cs" />
+    <Compile Remove="StepDefinitions\ClientpageSteps.cs" />
+    <Compile Remove="StepDefinitions\CoApplicantPageSteps.cs" />
+    <Compile Remove="StepDefinitions\CreditsPageSteps.cs" />
+    <Compile Remove="StepDefinitions\CustomizeQuoteSteps.cs" />
+    <Compile Remove="StepDefinitions\DeclinationspageSteps.cs" />
+    <Compile Remove="StepDefinitions\EffectiveDateSteps.cs" />
+    <Compile Remove="StepDefinitions\HomePageSteps.cs" />
+    <Compile Remove="StepDefinitions\InforAddMortgageSteps.cs" />
+    <Compile Remove="StepDefinitions\InformationneededSteps.cs" />
+    <Compile Remove="StepDefinitions\InsuredPageSteps.cs" />
+    <Compile Remove="StepDefinitions\MaillingAddressSteps.cs" />
+    <Compile Remove="StepDefinitions\PageofBillingSteps.cs" />
+    <Compile Remove="StepDefinitions\PaymentMethodSteps.cs" />
+    <Compile Remove="StepDefinitions\PaymentProcessSteps.cs" />
+    <Compile Remove="StepDefinitions\PolicyIssueSteps.cs" />
+    <Compile Remove="StepDefinitions\SignedDocumentSteps.cs" />
+    <Compile Remove="StepDefinitions\TrustpageSteps.cs" />
+    <Compile Remove="StepDefinitions\ValidatePageSteps.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="FeatureFiles\Book1UserName.xlsx" />
+    <None Remove="FeatureFiles\PremiumCalculator.xlsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <SpecFlowFeatureFiles Remove="FeatureFiles\FIGUser.feature" />
+    <SpecFlowFeatureFiles Remove="FeatureFiles\HomeIsNotQuotable.feature" />
+    <SpecFlowFeatureFiles Remove="FeatureFiles\Login.feature" />
+    <SpecFlowFeatureFiles Remove="FeatureFiles\Quote.feature" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <SpecFlowObsoleteCodeBehindFiles Remove="FeatureFiles\FIGUser.feature.cs" />
+    <SpecFlowObsoleteCodeBehindFiles Remove="FeatureFiles\SMQ_Physical.feature.cs" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="ExtentReports" Version="4.1.0-alpha2" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.2">
+	  <NoWarn>NU1701</NoWarn>
+	</PackageReference>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.4.0" />
+    <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="NUnitTestAdapter.WithFramework" Version="2.0.0">
+		 <NoWarn>NU1701</NoWarn>
+	</PackageReference>
+    <PackageReference Include="Selenium.Firefox.WebDriver" Version="0.27.0" />
+    <PackageReference Include="Selenium.Microsoft.Webdriver2" Version="2.0.10586.1" />
+    <PackageReference Include="Selenium.Support" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="110.0.5481.7700" />
+    <PackageReference Include="Selenium.WebDriver.GeckoDriver" Version="0.32.2" />
+    <PackageReference Include="Selenium.WebDriver.IEDriver" Version="3.150.1.1" />
+    <PackageReference Include="Selenium.WebDriver.MSEdgeDriver" Version="110.0.1587.50" />
+    <PackageReference Include="Selenium.WebDriverBackedSelenium" Version="3.141.0" />
+    <PackageReference Include="SpecFlow" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.Assist.Dynamic" Version="1.4.1" />
+    <PackageReference Include="SpecFlow.Contrib.Variants" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.ExternalData" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.Plus.Excel" Version="1.7.3" />
+    <PackageReference Include="SpecFlow.Plus.LivingDocPlugin" Version="3.9.57" />
+    <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.9.74" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.7.1" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpAFProject\CSharpAFProject.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Config\extent-config.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Data\LoginTestData.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Config\log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Default.srprofile">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\chromedriver.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\geckodriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\gridHubConfig.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\nodeConfig.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\starthub.bat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\startnode.bat">
+		 <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MicrosoftWebDriver.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="specflow.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+    <None Update="test.runsettings">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Compile Update="Data\AutomationSettings.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AutomationSettings.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Data\BulkUploadData.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>BulkUploadData.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Data\DownloadScreenData.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DownloadScreenData.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Data\PremiumCalculatorData.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>PremiumCalculatorData.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Data\SMQQuestions.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>SMQQuestions.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Data\TestCase_VerifyReferToUW.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>TestCase_VerifyReferToUW.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Data\TestData.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>TestData.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Data\ViewBulkUpload.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ViewBulkUpload.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <EmbeddedResource Update="Data\AutomationSettings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AutomationSettings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Data\BulkUploadData.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>BulkUploadData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Data\DownloadScreenData.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>DownloadScreenData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Data\PremiumCalculatorData.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PremiumCalculatorData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Data\SMQQuestions.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>SMQQuestions.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Data\TestCase_VerifyReferToUW.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>TestCase_VerifyReferToUW.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Data\TestData.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>TestData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Data\ViewBulkUpload.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ViewBulkUpload.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+
+
+</Project>
